@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到我所创建的第一个github测试页面
 
 You can use the [editor on GitHub](https://github.com/hnyzhang/myresume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+你可以利用markdown编写文档说明
 
 ```markdown
 Syntax highlighted code block
